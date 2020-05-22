@@ -1,6 +1,6 @@
-# Supervised-Learning-Projects
+# Supervised-Learning-Project
 
-This repository contains my projects on Supervised Learning. 
+This repository contains my project on Supervised Learning. 
 These are practice projects which I wrote while learning and understanding the topic.
 
 Objective: The classification goal is to predict the likelihood of a liability customer buying personal loans.
