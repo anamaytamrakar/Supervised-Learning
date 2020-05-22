@@ -1,4 +1,5 @@
 # Supervised-Learning-Project
+## Banking domain 
 
 This repository contains my project on Supervised Learning. 
 These are practice projects which I wrote while learning and understanding the topic.
@@ -16,13 +17,4 @@ Learning Outcomes:
 •	Preparing the data to train a model
 •	Training and making predictions using a classification model
 •	Model evaluation
-
-Steps and tasks:
-•	Read the column description and ensure you understand each attribute well 
-•	Study the data distribution in each attribute, share your findings
-•	Get the target column distribution. Your comments 
-•	Split the data into training and test set in the ratio of 70:30 respectively 5.Use different classification models (Logistic, K-NN and Naïve Bayes) to predict the likelihood of a liability customer buying personal loans 6.Print the confusion matrix for all the above models 7.Give your reasoning on which is the best model in this case and why it performs better?
-
-References:
-•	Data analytics use cases in Banking
-•	Machine Learning for Financial Marketing
+•	Split the data into training and test set in the ratio of 70:30 respectively 5.Use different classification models (Logistic, K-NN and Naïve Bayes) to predict the likelihood of a liability customer buying personal loans 6.Print the confusion matrix for all the above models 7.
